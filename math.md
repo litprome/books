@@ -1,0 +1,1 @@
+- [The Tensor Cookbook](https://tensorcookbook.com/)
