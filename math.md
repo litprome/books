@@ -1,1 +1,2 @@
+- [Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/)
 - [The Tensor Cookbook](https://tensorcookbook.com/)
